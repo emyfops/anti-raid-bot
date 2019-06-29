@@ -1,0 +1,21 @@
+{
+  "staffs": [
+    {
+      "user_id": "381916855365009418"
+    }
+  ],
+  "blacklist_users": [
+    {
+      "user_id": "@ClydeBot#0001",
+      "motif": ""
+    },
+    {
+      "user_id": "fehfrfhrfre",
+      "motif": ""
+    },
+    {
+      "user_id": "1",
+      "motif": ""
+    }
+  ]
+}
